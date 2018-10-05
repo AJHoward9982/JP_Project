@@ -9,4 +9,4 @@ Your task is to create a flexible structure that could be used in any production
 
 This structure would then allow easy modification to handle different products."
 
-*Help so far has come from both _Prof. Vanselow_ and various websites. (Stack overflow and Oracle's Java documentation mainly)*  
+*Help so far has come from both __Prof. Vanselow__ and various websites. (Stack overflow and Oracle's Java documentation mainly)*  
